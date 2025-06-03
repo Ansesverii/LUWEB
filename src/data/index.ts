@@ -30,7 +30,7 @@ export const authors: Author[] = [
     image: "/Shumilaprofile.jpeg",
     bio: "I've always believed that stories are how civilizations speak—and universities, in particular, are teeming with voices that deserve a headline. That belief gave rise to LU.Chronicles, the student-run daily I founded not simply to report what happens, but to reflect what matters. I'm Shumaila—a student at Lucknow University and IGNOU—studying English Literature, Psychology, Ancient Indian History, and Public Administration. Yes, all at once. And no, sleep is not overrated—it's just scheduled. Before founding LU.Chronicles, I spent my school years juggling grades, gathering trophies, captaining literary events, and finding my voice in auditoriums packed with applause and adjudicators. That same hunger for challenge has since found a home in multiple arenas: inter-university debates, writing rooms, and as the President of LU.LITCORE, the official literary society of Lucknow University. But Chronicles is something different. It's not about just adding another title to the résumé. It's about building a newsroom run by students, for students—one that blends editorial rigor with youthful defiance. As the founder and editor of LU.Chronicles, I wear a lot of hats—curate content, mentor writers, map out editorial strategy, and occasionally jump in with a byline or two (or ten). Every piece we publish aims to balance curiosity with credibility. When I'm not chasing stories—fictional or otherwise—I'm probably chasing a dozen other interests: public speaking, film criticism, poetry, Pilates, languages, art, aesthetics, or the perfect chord on one of my instruments. My life is stitched together by a simple rule—if you can learn it, try it. What I bring to the paper is not just a résumé of accolades but an ethic: of inquiry, imagination, and intention. Because if you're going to write history—be it personal or institutional—you may as well make sure it's worth reading.",
     email: "shumaila@luchronicles.edu",
-    designation: "Editor",
+    designation: "Editor in Chief",
     semester: "4th",
     course: "B.A.",
     categories: ["Arts & Culture", "Op-ed", "Blogs", "Magazine", "Podcasts"],
@@ -39,16 +39,16 @@ export const authors: Author[] = [
   },
   {
     id: "2",
-    name: "Shiva Mishra",
-    username: "shiva-mishra",
-    image: "/Shiva Mishra.jpeg",
-    bio: "I'm Shiva Mishra — the Vice President of Lu.LitCore, Research Head of Chronocore, and the ideator behind Indicore, our cultural and historical soul.\n\nI am literature and ancient Indian history major with a thing for headlines, heated debates, and hidden truths and here in chronocore, I'll uncover those hidden truths and serve you hot.\n\nChronocore isn't just another news and current affairs club, we're here to write our own story, our own chronicles. And my job? To dig, decode, and deliver.\n\nWhat's happening in our world, talking about it. Loudly, clearly, and critically.\n\nI enjoy engaging in thought-provoking discussions that challenge perspectives and deepen understanding. I've strong opinions-sometimes too strong- but that only makes the conversation interesting and fiery.\n\nI believe in the power of understanding, empathy, and a strong sense of purpose. These strengths guide me as I work to create spaces where ideas flourish and knowledge is shared. Whether it's diving into history, embracing our rich culture, or just having meaningful conversations, I'm here to bring people together.\n\nI take pride in blending tradition and culture with progress, and I always approach my work with vision and a bit of that Desi flair—where intellect meets heart.",
-    email: "shiva@luchronicles.edu",
-    designation: "Research Head",
+    name: "Hetal Kothari",
+    username: "hetal-kothari",
+    image: "/Hetal.jpeg",
+    bio: "I'm Hetal Kothari — a passionate writer and researcher with a keen interest in exploring diverse perspectives and uncovering compelling stories. As a dedicated member of LU.Chronicles, I bring my analytical mindset and creative approach to every piece I write.\n\nMy journey in journalism began with a deep curiosity about the world around us and a desire to give voice to important narratives. I believe in the power of storytelling to inform, inspire, and create meaningful connections.\n\nWith a background in research and writing, I specialize in crafting engaging content that resonates with our readers while maintaining the highest standards of journalistic integrity. I'm particularly interested in exploring topics related to culture, society, and current affairs.\n\nAt LU.Chronicles, I'm committed to contributing thoughtful, well-researched articles that add value to our readers' understanding of the world. I believe in the importance of balanced reporting and presenting multiple perspectives on complex issues.\n\nWhen I'm not writing, you can find me exploring new books, engaging in meaningful discussions, or seeking out new stories to tell. I'm always eager to learn and grow as a writer and journalist.",
+    email: "hetal@luchronicles.edu",
+    designation: "Head",
     semester: "4th",
     course: "B.A.",
     categories: ["International", "City", "Arts & Culture", "Blogs", "Podcasts"],
-    articlesCount: 18,
+    articlesCount: 15,
   },
   {
     id: "3",
@@ -57,7 +57,7 @@ export const authors: Author[] = [
     image: "/Dorcas Tembo Sambo.jpg",
     bio: "My name is Dorcas Tembo Sambo, I am a 2nd-year BBA student and a passionate advocate for meaningful discourse, I bring a unique blend of analytical thinking, creative expression, and unwavering commitment to truth. As the Head of the Writing Department at Lu.LitCore and Proofreading & Quality Control Head at LU Chronicles, I am dedicated to crafting compelling narratives and fostering critical thinking.\n\nWith a love for debating that extends beyond argumentation to building minds and critical thinking, I thrive in environments that encourage intellectual exploration and respectful dialogue. As a writer, I believe in the transformative power of words, shaping life's worth narratives that inspire and provoke.\n\nGuided by an unwavering commitment to truth and a passion for innovative storytelling, I bring boldness, wisdom, and clarity to every project. Through quality assurance and impactful writing, I aim to make a lasting impact, ensuring that truth is heard without boundaries.\n\nSincerely,\nHead, Writing Department\nHead, Proofreading and Quality Control",
     email: "dorcas@luchronicles.edu",
-    designation: "Quality Control Head",
+    designation: "Proofreading and Quality Control Head",
     semester: "4th",
     course: "BBA",
     categories: ["Business", "Crosswords"],
@@ -70,7 +70,7 @@ export const authors: Author[] = [
     image: "/Atlut.jpeg",
     bio: "Hi! I'm Atulit Pandey, a first year Geology major and a hardcore enthusiast of Geopolitics, debates, brainstorming and rocks, of course.\n\nI bring, along with me, a mindset that is open to new thoughts, new ideas, while remaining unbiased and always stationed at a neutral ground, which gives me my clarity of thought and ideation.\n\nIn my free time, I can be found debating any and every motion that is introduced, playing tabla, writing a poem or two, reading a book or more often than not, reading my newspaper. Debating gives a lot of space to me to think in a way which is not haphazard and spiraled, hence, crystal clear. I'm a seeker of not just argumentation, but also the multi dimensional thought that tags along and the facts the are part and parcel of the argument. My constant thirst for knowledge and unshakable want for truth bestows upon me the straight forward and unorthodox approach to circumstances that I come across.\n\nFor me, knowledge is a journey, and not just an obligation that needs to be fulfilled. Also, I'm a keen learner of the what happens in our country and the world and analyze the changing power dynamics of our world. Here, at LU.Chronicles, we aim to express our thought, not as impositions but as reasons always available for scrutiny as we, ourselves, are seekers of truth and learners of life, presenting our thoughts with unwavering courage and unshakable beliefs, from our pens to your hearts, with attempts to embody our motto- \"Lucem sequimir\".\n\nPeace,\nVice head, Chronocore\nHead, Design and Layout, LU.Chronicles",
     email: "atulit@luchronicles.edu",
-    designation: "Vice Head of Chronicles",
+    designation: "Vice Head",
     semester: "2nd",
     course: "B.Sc.",
     categories: ["International", "National", "City", "Sci-tech", "Magazine"],
@@ -83,7 +83,7 @@ export const authors: Author[] = [
     image: "/Perna.jpeg",
     bio: "I'm Prerna Srivastava — a first-year B.Sc student, an unapologetic question-asker, a passionate debater, and a story collector in Lu.LitCore.\n\nDriven by curiosity, I'm always asking why— whether it's exploring geopolitical events, questioning societal norms, or delving into feminist ideas. I thrive in conversations that dig deeper, seeking connection and learning from the world around me.\n\nI don't just enjoy stories; I collect them. From hostel corridors to chance encounters, I believe everyone has a narrative worth hearing. These meaningful exchanges broaden my perspective and deepen my understanding of the world.\n\nDebating excites me—not for the sake of disagreement, but for the depth it brings. I enjoy expressing my thoughts and hearing others do the same. While I have strong opinions, I value openness, empathy, and respectful conversation.\n\nI bring a lightness to life—laughing easily, enjoying the little moments, and balancing seriousness with a warm, happy-go-lucky spirit.\n\nLU Chronicles, to me, is more than a platform; it's a bridge between campus and the world, where stories, opinions, and reflections on everything from college life to global issues can find a home. I'm here to help shape that space—thoughtfully, honestly, and always with curiosity.\n\nI'll be here, ready to ask the next why and learn from every conversation",
     email: "prerna@luchronicles.edu",
-    designation: "PR Head",
+    designation: "Research Head",
     semester: "2nd",
     course: "B.Sc NEP",
     categories: ["International", "National", "Arts & Culture", "Sci-tech", "Magazine", "Podcasts"],
@@ -96,7 +96,7 @@ export const authors: Author[] = [
     image: "/Abhinav Kumar Upadhyay .jpeg",
     bio: "I am Abhinav Kumar Upadhyay — an equal blend of strategist and storyteller. Believing in balanced minds and measured words, I take my steps through life entranced with diplomacy, steady logic, and an unceasing curiosity for the workings of life.\n\nI find the joy in combining precision and creativity—whether it be coding or composing poetry. I perform well in the chessboard of ideas — arenas ranging from heated debates to mellow essays, from stirring monologues to articles grounded in reality. Words, for me, are not weapons; they are tools used to build bridges, not walls.\n\nI read to understand, write to express, cook to counsel, and debate to unlock truths. Never much for extremes, I am biased toward nuance over noise — the kind of thinking that produces dialogue instead of division. I bring that mindset wherever I go: thoughtful, calm, and clear.\n\nTo me, expression is not simply an art — it is a responsibility. Whether refining a sentence, directing a conversation, or constructing a framework, I do so with intention and awareness, with the searing, quiet passion that propels worthy ideas into being.",
     email: "abhinav@luchronicles.edu",
-    designation: "Proofreading Head",
+    designation: "Design and Layout Head",
     semester: "2nd",
     course: "B.Sc NEP",
     categories: ["International", "National", "Business", "Sci-tech", "Magazine"],
@@ -117,21 +117,98 @@ export const authors: Author[] = [
   },
   {
     id: "9",
-    name: "Mani Kant Soni",
-    username: "mani-kant-soni",
-    image: "/Mani Kant.jpeg",
-    bio: "B.A. student with expertise in national politics and university affairs.",
-    email: "mani@luchronicles.edu",
-    designation: "Head of Chronicles branch",
+    name: "Aliya Imam",
+    username: "aliya-imam",
+    image: "/Aliya.jpeg",
+    bio: "I'm Aliya Imam — a dedicated journalist and storyteller with a passion for uncovering and sharing meaningful narratives. As a member of LU.Chronicles, I bring my unique perspective and commitment to excellence in every story I tell.\n\nMy approach to journalism is rooted in thorough research, thoughtful analysis, and a deep respect for the power of words. I believe in creating content that not only informs but also engages and inspires our readers.\n\nWith a focus on university affairs and student life, I strive to highlight the diverse experiences and achievements within our academic community. I'm particularly interested in exploring how campus culture intersects with broader societal trends and issues.\n\nAt LU.Chronicles, I'm dedicated to maintaining the highest standards of journalistic integrity while bringing fresh perspectives to our coverage. I believe in the importance of balanced reporting and giving voice to different viewpoints.\n\nBeyond writing, I'm actively involved in campus activities and enjoy connecting with fellow students to understand their stories and experiences. I'm constantly seeking to learn and grow as a journalist and storyteller.",
+    email: "aliya@luchronicles.edu",
+    designation: "PR Head",
     semester: "4th",
     course: "B.A.",
     categories: ["International", "National", "City", "University", "Business"],
-    articlesCount: 13,
+    articlesCount: 12,
+  },
+  {
+    id: "10",
+    name: "Dr. Utkarsh Mishra",
+    username: "utkarsh-mishra",
+    image: "/utkarsh.jpeg",
+    bio: "Dr. Utkarsh Mishra is a distinguished and honourable faculty member at the Department of Public Administration, University of Lucknow. His expertise lies in public administration, constitutional governance, and public policy, with a proven track record of research in governance, policy analysis, and administrative reforms. Having contributed to numerous projects funded by the government and UNICEF, Dr. Mishra's work uniquely bridges the gap between academia and policy implementation, driving effective governance through informed research and practice.",
+    email: "utkarsh.mishra@luchronicles.edu",
+    designation: "Faculty Head",
+    department: "Department of Public Administration",
+    categories: ["Public Administration", "Constitutional Governance", "Public Policy", "Research", "Academic Leadership"],
+    articlesCount: 8,
+    isFaculty: true,
   },
 ];
 
 // Sample Articles
 export const articles: Article[] = [
+  {
+    id: "0",
+    title: "Introducing LU Chronicles: India's First University News Daily",
+    slug: "introducing-lu-chronicles",
+    excerpt: "Every institution needs a voice. This is ours. Today marks a historic moment for Lucknow University as we proudly announce the launch of LU Chronicles — India's first university news daily.",
+    content: `<p>Every institution needs a voice. This is ours.</p>
+    <p>Today marks a historic moment for Lucknow University as we proudly announce the launch of LU Chronicles — India's first university news daily and the official student publication of our esteemed institution. This groundbreaking initiative represents more than just another campus newsletter; it embodies the spirit of student journalism and academic excellence that Lucknow University has championed for decades.</p>
+    <h2>A New Era of Student Journalism</h2>
+    <p>LU Chronicles stands as a testament to the power of student-driven media in the digital age. Built by students, run by students, and written for the times we live in, this daily publication fills a crucial gap in university media landscape across India. While universities worldwide have embraced student journalism as an integral part of campus life, LU Chronicles pioneers this movement in the Indian higher education system.</p>
+    <p>Our mission extends beyond traditional campus reporting. We aim to create a comprehensive platform that captures the pulse of university life, academic achievements, research breakthroughs, cultural events, and the diverse voices that make Lucknow University a vibrant center of learning.</p>
+    <h2>What Makes LU Chronicles Special</h2>
+    <ul>
+      <li><strong>Student-Centric Approach:</strong> Every article, every headline, and every editorial decision stems from the student perspective. Our editorial team comprises dedicated students from various faculties who understand the unique challenges, aspirations, and interests of their peers.</li>
+      <li><strong>Daily Publication:</strong> Unlike weekly or monthly university publications, LU Chronicles operates on a daily schedule, ensuring that news remains fresh, relevant, and timely. This frequency allows us to cover breaking news, urgent announcements, and time-sensitive campus events as they unfold.</li>
+      <li><strong>Comprehensive Coverage:</strong> From academic updates and research highlights to sports achievements and cultural celebrations, LU Chronicles serves as a one-stop destination for all university-related news and information.</li>
+      <li><strong>Professional Standards:</strong> While student-run, LU Chronicles maintains the highest journalistic standards, including fact-checking, ethical reporting, and balanced coverage of campus issues.</li>
+    </ul>
+    <h2>Our Content Philosophy</h2>
+    <p>LU Chronicles operates on the principle that university life encompasses far more than academics alone. Our coverage includes:</p>
+    <ul>
+      <li><strong>Academic Excellence:</strong> Highlighting research publications, faculty achievements, and scholarly milestones</li>
+      <li><strong>Student Life:</strong> Covering clubs, societies, events, and the rich tapestry of campus experiences</li>
+      <li><strong>Innovation Hub:</strong> Showcasing technological advancements, startup initiatives, and entrepreneurial ventures</li>
+      <li><strong>Cultural Canvas:</strong> Celebrating the diverse cultural heritage and artistic expressions within our university community</li>
+      <li><strong>Sports Arena:</strong> Following our teams, individual achievements, and sporting events</li>
+      <li><strong>Alumni Spotlight:</strong> Connecting current students with successful graduates and their inspiring journeys</li>
+    </ul>
+    <h2>The Team Behind the Vision</h2>
+    <p>LU Chronicles is published by the News Division of LU LitCore, bringing together passionate students from journalism, literature, communications, and various other disciplines. This collaborative approach ensures diverse perspectives and comprehensive coverage of university life.</p>
+    <p>Our editorial team undergoes rigorous training in digital journalism, media ethics, and content creation, preparing them not just for university reporting but for careers in media and communications. This practical experience serves as an invaluable supplement to traditional classroom learning.</p>
+    <h2>Launch Details and Future Vision</h2>
+    <p><strong>First Issue Release:</strong> June 7, 2025</p>
+    <p>Our inaugural issue will feature exclusive interviews with university leadership, coverage of recent academic achievements, upcoming events, and special features that introduce readers to the LU Chronicles editorial philosophy.</p>
+    <p>As we embark on this journey, LU Chronicles aims to become more than just a news source. We envision building a community platform where students can engage with important issues, share their stories, and contribute to meaningful campus discourse.</p>
+    <h2>Join the Chronicle Community</h2>
+    <p>LU Chronicles thrives on community participation. We encourage students, faculty, and staff to:</p>
+    <ul>
+      <li>Submit story ideas and tips</li>
+      <li>Contribute articles and opinion pieces</li>
+      <li>Share photos and multimedia content</li>
+      <li>Participate in campus discussions through our platform</li>
+    </ul>
+    <p>This publication belongs to the entire Lucknow University community, and we are committed to representing all voices fairly and accurately.</p>
+    <h2>A Historic Milestone</h2>
+    <p>The launch of LU Chronicles represents a significant milestone not just for Lucknow University but for the Indian higher education landscape. As India's first university news daily, we set a precedent that we hope will inspire similar initiatives across universities nationwide.</p>
+    <p>Our commitment extends beyond daily news delivery. LU Chronicles serves as a training ground for future journalists, a platform for student expression, and a historical record of our university's ongoing evolution.</p>
+    <h2>Looking Forward</h2>
+    <p>As we prepare for our first issue on June 7, the entire LU Chronicles team feels the weight of responsibility and the excitement of possibility. We are not just launching a publication; we are establishing a new tradition of student journalism excellence at Lucknow University.</p>
+    <p>Every institution needs a voice that authentically represents its community, celebrates its achievements, and thoughtfully examines its challenges. LU Chronicles is that voice for Lucknow University — honest, energetic, and deeply committed to serving our campus community.</p>
+    <p>The future of university journalism in India begins here, with LU Chronicles leading the way. We invite you to be part of this historic journey as we write the first chapter of what promises to be an extraordinary story of student media excellence.</p>
+    <p>Stay connected with LU Chronicles for daily updates, breaking news, and the stories that matter to our university community.</p>
+    <p><em>LU Chronicles is the official college daily of Lucknow University, published by the News Division of LU LitCore. For submissions, story tips, or general inquiries, contact our editorial team through the official university channels.</em></p>`,
+    image: "/LULOGO.jpeg",
+    category: "Editorial",
+    author: {
+      id: "1",
+      name: "Shumaila Khan",
+      username: "shumaila-khan",
+      image: "/Shumilaprofile.jpeg",
+    },
+    date: "June 7, 2025",
+    views: 0,
+    featured: true,
+  },
   {
     id: "1",
     title: "University to Host International Academic Conference Next Month",
@@ -150,9 +227,9 @@ export const articles: Article[] = [
     category: "University",
     author: {
       id: "9",
-      name: "Mani Kant Soni",
-      username: "mani-kant-soni",
-      image: "/Mani Kant.jpeg",
+      name: "Aliya Imam",
+      username: "aliya-imam",
+      image: "/Aliya.jpeg",
     },
     date: "May 10, 2025",
     views: 1243,

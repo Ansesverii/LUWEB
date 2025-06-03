@@ -1,4 +1,3 @@
-
 export interface Author {
   id: string;
   name: string;
@@ -9,6 +8,7 @@ export interface Author {
   designation?: string;
   semester?: string;
   course?: string;
+  department?: string;
   categories?: string[];
   articlesCount?: number;
   isFounder?: boolean;
